@@ -2,7 +2,9 @@
 <p>Module for the game LifePlay</p>
 <p>https://github.com/vinfamy/LifePlay</p>
 <br>
-<h3>rk_EroticShop  version(1.0):</h3> 
+<h3>rk_EroticShop:</h3>
+<p>Version: 1.0.1</p>
+<br>
 <p>Add options to buy erotic products at different places around the city.  </p>
 <p>At the moment, you cannot use them separatly... next update</p>
 <p>7 types of erotic product.</p>
